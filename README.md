@@ -1,5 +1,5 @@
  <h1> ✨About Me:</h1>
- I am a Frontend developer passionate about crafting captivating digital experiences through the power of code and design.
+ I am a front-end developer passionate about crafting captivating digital experiences through the power of code and design.
 <hr>
 - 👋 Hi, I’m @CySudhanshu
 - 👀 I’m interested in ...
