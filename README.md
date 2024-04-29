@@ -9,7 +9,11 @@
 -JAVASCRIPT </br>
 -React js </br>
 -Bootstrap </br>
--jQuery </br>
+-jQuery </br> <hr>
+<h1> ✨Connect:</h1>
+-LinkedIn: https://www.linkedin.com/in/cysudhanshu/ </br>
+-Gmail:- cysudhanshu@gmail.com </br>
+
  
  
 
