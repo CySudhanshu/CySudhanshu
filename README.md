@@ -4,6 +4,14 @@
 - 🌱 I’m currently learning Backend development. </br>
 - 💞️ I’m looking to collaborate on Frontend projects. </br><hr>
  <h1> ✨Skills:</h1>
+-HTML5 </br>
+-CSS3 </br>
+-JAVASCRIPT </br>
+-React js </br>
+-Bootstrap </br>
+-jQuery </br>
+ 
+ 
 
 - 📫 How to reach me ...
 
