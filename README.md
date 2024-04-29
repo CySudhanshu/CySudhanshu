@@ -12,12 +12,11 @@
 -jQuery </br> <hr>
 <h1> ✨Connect:</h1>
 -LinkedIn: https://www.linkedin.com/in/cysudhanshu/ </br>
--Gmail:- cysudhanshu@gmail.com </br>
+-Gmail:- <p><a href="mailto:cysudhanshu@gmail.com">Send email</a></p>  </br>
 
  
  
 
-- 📫 How to reach me ...
 
 
 <!---
