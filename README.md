@@ -10,7 +10,7 @@
 -React js </br>
 -Bootstrap </br>
 -jQuery </br> <hr>
-<h1> ✨Connect:</h1>
+<h1> ✨Connect: </h1> <span> Feel free to connect.</span>
 -LinkedIn: https://www.linkedin.com/in/cysudhanshu/ </br>
 -Gmail:- <span><a href="mailto:cysudhanshu@gmail.com">Send email</a></span>  </br>
 
