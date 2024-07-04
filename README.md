@@ -9,7 +9,9 @@
 -JAVASCRIPT </br>
 -React js </br>
 -Bootstrap </br>
--jQuery </br> <hr>
+-jQuery </br>
+-Next js </br>
+-Typescript </br><hr>
 <h1> ✨Connect: <span> feel free to reach out to me.</span></h1>  
 -LinkedIn: https://www.linkedin.com/in/cysudhanshu/ </br>
 -Gmail:- <span><a href="mailto:cysudhanshu@gmail.com">Send email</a></span>  </br>
